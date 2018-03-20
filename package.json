@@ -2,7 +2,7 @@
   "name": "valeriateran",
   "version": "1.0.0",
   "private": true,
-  "main": "./src/index.tsx",
+  "main": "index.js",
   "scripts": {
     "web-watch": "webpack --progress --colors --watch",
     "rn-watch": "tsc --watch",
